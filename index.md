@@ -14,4 +14,4 @@ Analyzed a dataset on Spotify user behavior and demographics to uncover key fact
 
 The project notebook can be accessed [here](Spotify_user_behaviour.html){:target="_blank" rel="noopener noreferrer"}.
 
-![Image](https://github.com/user-attachments/assets/7eb931aa-949b-496c-bc69-e220da74b46d)
+![Image](https://github.com/user-attachments/assets/09c77107-52c4-4753-b970-018a82386aa9)
