@@ -11,3 +11,5 @@ Analyzed a dataset on Spotify user behavior and demographics to uncover key fact
 (Libraries used: NumPy, Pandas, Matplotlib, Seaborn, SciPy)
 
 The project notebook can be accessed [here](Spotify_user_behaviour.html){:target="_blank" rel="noopener noreferrer"}.
+
+![Spotify Analysis](https://github.com/jayjay0317/jayjay0317.github.io/blob/main/images/ChatGPT%20Image%20Apr%202,%202025,%2009_54_40%20PM.png?raw=true)
