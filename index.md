@@ -7,6 +7,7 @@ You can access the project [here](games_and_academic_success.html){:target="_bla
 The visualizations for this project can be accessed [here](https://public.tableau.com/app/profile/jaewoo.lee/viz/GamesandAcademicSuccess/Dashboard1?publish=yes){:target="_blank" rel="noopener noreferrer"}.
 
 ## Spotify User Behaviour
-Analyzed a dataset on Spotify user behavior, demographics, and music discovery habits to uncover key factors influencing subscription preferences and music recommendation ratings using **Python**.
+Analyzed a dataset on Spotify user behavior and demographics to uncover key factors influencing subscription preferences and user engagements using **Python**.
+(Libraries used: NumPy, Pandas, Matplotlib, Seaborn, SciPy)
 
 You can access the project [here](Spotify_user_behaviour.html){:target="_blank" rel="noopener noreferrer"}.
