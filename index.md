@@ -3,7 +3,7 @@
 ## Olist E-commerce Analysis
 Analyzed the Olist Brazilian e-commerce dataset to uncover key business insights regarding sales trends, product performance, regional distribution, operational efficiency, and customer loyalty. This end-to-end project utilized **PostgreSQL** for data extraction and transformation. Key findings informed strategic recommendations for growth and operational improvement.
 
-- **GitHub Repository:** [Olist E-commerce Analysis Project Repository](https://github.com/jayjay0317/Olist-E-Commerce-analysis)
+- **GitHub Repository:** [Olist E-commerce Analysis Project Repository](https://github.com/jayjay0317/Olist-E-Commerce-analysis){:target="_blank" rel="noopener noreferrer"}
     *   Contains the project README.md with detailed analysis findings and recommendations.
     *   Includes all SQL queries used for data extraction and analysis.
     *   Provides documentation on database setup and technical implementation.
