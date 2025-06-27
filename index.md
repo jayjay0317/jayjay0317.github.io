@@ -7,7 +7,7 @@ Analyzed the Olist Brazilian e-commerce dataset to uncover key business insights
     *   Contains the project README.md with detailed analysis findings and recommendations.
     *   Includes all SQL queries used for data extraction and analysis.
     *   Provides documentation on database setup and technical implementation.
-- **Dashboard:** 
+- **Interactive Dashboard:** 
 
 ## Spotify User Behaviour
 Analyzed a dataset on Spotify user behavior and demographics to uncover key factors influencing subscription preferences and user engagements using **Python**.  
