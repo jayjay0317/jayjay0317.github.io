@@ -7,7 +7,10 @@ Analyzed the Olist Brazilian e-commerce dataset to uncover key business insights
     *   Contains the project README.md with detailed analysis findings and recommendations.
     *   Includes all SQL queries used for data extraction and analysis.
     *   Provides documentation on database setup and technical implementation.
-- **Interactive Dashboard:** 
+- **Interactive Dashboard:**
+   - [Key Overview](https://public.tableau.com/views/OlistDashboard-KeyOverview/ExecutiveOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+   - [Product & Market Analysis](https://public.tableau.com/views/OlistDashboard-ProductMarket/ProductMarket?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+   - [Customer Insights](https://public.tableau.com/views/OlistDashboard-CustomerInsights/CustomerSegmentationValue?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Spotify User Behaviour
 Analyzed a dataset on Spotify user behavior and demographics to uncover key factors influencing subscription preferences and user engagements using **Python**.  
