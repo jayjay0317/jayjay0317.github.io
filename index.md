@@ -32,7 +32,9 @@ footer {
 }
 
 .hero h1 {
-  margin-bottom: 8px;
+  font-size: 2rem;
+  color: #222;
+  margin-bottom: 10px;
 }
 
 .hero-subtitle {
@@ -115,7 +117,7 @@ footer {
 
 <div class="hero">
 
-# Project Portfolio
+<h1>Project Portfolio</h1>
 
 <p class="hero-subtitle">
 A collection of applied data analysis and machine learning projects using Python, SQL, PyTorch, scikit-learn, Tableau, and deployment tools.
