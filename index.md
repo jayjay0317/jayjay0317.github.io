@@ -1,4 +1,32 @@
 <style>
+.wrapper {
+  width: 1080px;
+}
+
+header {
+  width: 240px;
+}
+
+section {
+  width: 760px;
+}
+
+footer {
+  width: 240px;
+}
+
+@media print, screen and (max-width: 960px) {
+  .wrapper {
+    width: auto;
+  }
+
+  header,
+  section,
+  footer {
+    width: auto;
+  }
+}
+
 .hero {
   margin-bottom: 32px;
 }
