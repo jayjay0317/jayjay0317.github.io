@@ -87,15 +87,14 @@
 
 <div class="hero">
 
-# Jaewoo Lee
+# Project Portfolio
 
 <p class="hero-subtitle">
-Statistics and Mathematics graduate exploring data analysis, machine learning, and deep learning through applied projects.
+A collection of applied data analysis and machine learning projects using Python, SQL, PyTorch, scikit-learn, Tableau, and deployment tools.
 </p>
 
 <p class="hero-subtitle">
-This portfolio showcases projects in data analysis, SQL, dashboarding, machine learning, model deployment, and model reliability.
-My work focuses on reproducible workflows, practical evaluation, and clear communication of results.
+These projects focus on reproducible workflows, practical model evaluation, clear communication, and turning real-world datasets into useful insights.
 </p>
 
 </div>
