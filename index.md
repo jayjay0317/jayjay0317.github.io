@@ -34,7 +34,7 @@ footer {
 .hero h1 {
   font-size: 2rem;
   color: #222;
-  margin-bottom: 10px;
+  margin-bottom: 18px;
 }
 
 .hero-subtitle {
