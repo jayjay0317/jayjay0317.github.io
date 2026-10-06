@@ -47,6 +47,7 @@ footer {
   display: grid;
   gap: 22px;
   margin-top: 24px;
+  margin-bottom: 38px;
 }
 
 .project-card {
@@ -252,6 +253,12 @@ The project covered preprocessing, class imbalance handling, model training, thr
 
 </div>
 
+</div>
+
+## Additional Projects
+
+<div class="project-grid">
+
 <div class="project-card">
 
 <h2>Games and Academic Success</h2>
@@ -278,6 +285,35 @@ Used SQL for data cleaning, preprocessing, and exploratory analysis, and Tableau
 <div class="project-links">
   <a href="games_and_academic_success.html" target="_blank" rel="noopener noreferrer">Full Analysis</a>
   <a class="secondary-link" href="https://public.tableau.com/app/profile/jaewoo.lee/viz/GamesandAcademicSuccess/Dashboard1?publish=yes" target="_blank" rel="noopener noreferrer">Tableau Dashboard</a>
+</div>
+
+</div>
+
+<div class="project-card">
+
+<h2>Spotify User Behaviour</h2>
+
+<div class="project-type">Python · Exploratory Data Analysis</div>
+
+<p>
+Analyzed Spotify user behavior and demographic data to explore listening patterns, subscription preferences, and user engagement.
+</p>
+
+<p>
+Used Python for data cleaning, exploratory analysis, visualization, and statistical comparison of behavioral patterns across user groups.
+</p>
+
+<ul>
+  <li>Cleaned and explored Spotify user behavior data</li>
+  <li>Analyzed subscription preferences and engagement patterns across user groups</li>
+  <li>Created visualizations to identify differences in user behavior</li>
+  <li>Applied statistical comparisons to support exploratory findings</li>
+</ul>
+
+<p class="tools"><strong>Tools:</strong> Python, pandas, NumPy, matplotlib, seaborn, SciPy</p>
+
+<div class="project-links">
+  <a href="Spotify_user_behaviour.html" target="_blank" rel="noopener noreferrer">Full Analysis</a>
 </div>
 
 </div>
