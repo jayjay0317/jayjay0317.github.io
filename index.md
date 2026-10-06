@@ -155,7 +155,7 @@ A baseline CNN and an augmented CNN were trained under identical conditions and 
   <li>Visualized robustness degradation across corruption conditions and documented experimental limitations and future extensions</li>
 </ul>
 
-<p class="tools"><strong>Tools:</strong> Python, PyTorch, torchvision, NumPy, pandas, matplotlib, scikit-learn</p>
+<p class="tools"><strong>Tools:</strong> Python, PyTorch, torchvision, NumPy, Matplotlib</p>
 
 <div class="project-links">
   <a href="https://github.com/jayjay0317/cnn-robustness-generalization" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
