@@ -184,7 +184,7 @@ Compared a class-weighted neural network with a scikit-learn Random Forest basel
   <li>Used Monte Carlo Dropout to estimate predictive uncertainty and examine less reliable prediction groups</li>
 </ul>
 
-<p class="tools"><strong>Tools:</strong> Python, PyTorch, scikit-learn, pandas, NumPy, matplotlib</p>
+<p class="tools"><strong>Tools:</strong> Python, PyTorch, scikit-learn, pandas, NumPy, Matplotlib</p>
 
 <div class="project-links">
   <a href="https://github.com/jayjay0317/diabetes-risk-reliability-pytorch" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
@@ -242,7 +242,7 @@ Used PostgreSQL for data analysis and Tableau to translate the findings into int
   <li>Developed recommendations related to customer retention, logistics performance, product strategy, and regional growth</li>
 </ul>
 
-<p class="tools"><strong>Tools:</strong> PostgreSQL, SQL, Tableau</p>
+<p class="tools"><strong>Tools:</strong> SQL, PostgreSQL, Tableau</p>
 
 <div class="project-links">
   <a href="https://github.com/jayjay0317/Olist-E-Commerce-analysis" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
@@ -310,7 +310,7 @@ Used Python for data cleaning, exploratory analysis, visualization, and statisti
   <li>Applied statistical comparisons to support and interpret exploratory findings</li>
 </ul>
 
-<p class="tools"><strong>Tools:</strong> Python, pandas, NumPy, matplotlib, seaborn, SciPy</p>
+<p class="tools"><strong>Tools:</strong> Python, pandas, NumPy, Matplotlib, seaborn, SciPy</p>
 
 <div class="project-links">
   <a href="Spotify_user_behaviour.html" target="_blank" rel="noopener noreferrer">Full Analysis</a>
