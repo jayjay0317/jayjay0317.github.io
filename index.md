@@ -170,7 +170,7 @@ A baseline CNN and an augmented CNN were trained under identical conditions and 
 <div class="project-type">Machine Learning · PyTorch · Model Reliability</div>
 
 <p>
-Developed a PyTorch-based diabetes risk prediction project focused on model reliability under severe class imbalance.
+Extended a previous scikit-learn diabetes risk prediction and deployment project into a PyTorch-based study of model reliability under severe class imbalance.
 </p>
 
 <p>
@@ -188,6 +188,35 @@ Compared a class-weighted neural network with a scikit-learn Random Forest basel
 
 <div class="project-links">
   <a href="https://github.com/jayjay0317/diabetes-risk-reliability-pytorch" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
+</div>
+
+</div>
+
+<div class="project-card">
+
+<h2>Diabetes ML Pipeline and Deployment</h2>
+
+<div class="project-type">Machine Learning · Deployment · End-to-End Pipeline</div>
+
+<p>
+Built an end-to-end machine learning pipeline for diabetes risk prediction, covering model development through deployment.
+</p>
+
+<p>
+The project combined scikit-learn modeling with threshold optimization, API development, an interactive user interface, containerization, and cloud deployment. It later served as the foundation for the PyTorch-based reliability and uncertainty analysis project above.
+</p>
+
+<ul>
+  <li>Built and tuned a Random Forest model for diabetes risk prediction using scikit-learn</li>
+  <li>Adjusted the classification threshold to prioritize recall for preventive risk screening</li>
+  <li>Developed a Flask API and Streamlit interface for interactive model inference</li>
+  <li>Containerized the application with Docker and deployed the pipeline using AWS infrastructure</li>
+</ul>
+
+<p class="tools"><strong>Tools:</strong> Python, scikit-learn, pandas, NumPy, Flask, Streamlit, Docker, AWS</p>
+
+<div class="project-links">
+  <a href="https://github.com/jayjay0317/Diabetes-ML-Pipeline-Analysis" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
 </div>
 
 </div>
@@ -220,35 +249,6 @@ Used PostgreSQL for data analysis and Tableau to translate the findings into int
   <a class="secondary-link" href="https://public.tableau.com/views/OlistDashboard-KeyOverview/ExecutiveOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank" rel="noopener noreferrer">Key Overview</a>
   <a class="secondary-link" href="https://public.tableau.com/views/OlistDashboard-ProductMarket/ProductMarket?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank" rel="noopener noreferrer">Product & Market</a>
   <a class="secondary-link" href="https://public.tableau.com/views/OlistDashboard-CustomerInsights/CustomerSegmentationValue?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank" rel="noopener noreferrer">Customer Insights</a>
-</div>
-
-</div>
-
-<div class="project-card">
-
-<h2>Diabetes ML Pipeline and Deployment</h2>
-
-<div class="project-type">Machine Learning · Deployment · End-to-End Pipeline</div>
-
-<p>
-Built an end-to-end machine learning pipeline for diabetes risk prediction, covering model development through deployment.
-</p>
-
-<p>
-The project combined scikit-learn modeling with threshold optimization, API development, an interactive user interface, containerization, and cloud deployment.
-</p>
-
-<ul>
-  <li>Built and tuned a Random Forest model for diabetes risk prediction using scikit-learn</li>
-  <li>Adjusted the classification threshold to prioritize recall for preventive risk screening</li>
-  <li>Developed a Flask API and Streamlit interface for interactive model inference</li>
-  <li>Containerized the application with Docker and deployed the pipeline using AWS infrastructure</li>
-</ul>
-
-<p class="tools"><strong>Tools:</strong> Python, scikit-learn, pandas, NumPy, Flask, Streamlit, Docker, AWS</p>
-
-<div class="project-links">
-  <a href="https://github.com/jayjay0317/Diabetes-ML-Pipeline-Analysis" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
 </div>
 
 </div>
