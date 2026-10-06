@@ -125,7 +125,7 @@ Selected projects in data analysis, machine learning, and statistical modeling u
 </p>
 
 <p class="hero-subtitle">
-My work focuses on practical analysis, model evaluation, reliability, and translating data into clear and useful insights.
+My projects focus on data analysis, statistical modeling, machine learning, and turning results into clear, interpretable insights.
 </p>
 
 </div>
